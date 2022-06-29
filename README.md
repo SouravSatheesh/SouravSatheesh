@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##💼 My Experience
+## 💼 My Experience
 
-###Programming Languages: 
+### Programming Languages: 
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
