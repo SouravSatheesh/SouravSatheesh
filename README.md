@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sourav Satheesh !!
-
-#### <p>I am a Computer Science and Engineering student at College of Engineering Trivandrum. A highly motivated student and a proactive learner. Always ready to learn new technologies and ways to adapt them in field of interest. A team-player who can also work independently.</p>
+<br />
+I am a Computer Science and Engineering student at College of Engineering Trivandrum. A highly motivated student and a proactive learner. Always ready to learn new technologies and ways to adapt them in field of interest. A team-player who can also work independently.
 <!--
 **SouravSatheesh/SouravSatheesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</p>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SouravSatheesh&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
