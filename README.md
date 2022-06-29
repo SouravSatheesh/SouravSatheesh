@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br />
+
 ## 💼 My Experience
 
 ### Programming Languages: 
@@ -40,6 +42,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
+
+<br />
+
+## ✨ My Contributions
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SouravSatheesh&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
