@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Sourav Satheesh !!
-<br />
+
 I am a Computer Science and Engineering student at College of Engineering Trivandrum. A highly motivated student and a proactive learner. Always ready to learn new technologies and ways to adapt them in field of interest. A team-player who can also work independently.
+
 <br />
 
 <!--
